@@ -5,4 +5,5 @@
 layout: home
 ---
 
-[Subject 1](http://willtack.github.io/neuroprint-validation/t1s/volume_viewer.html)
+[Subject 1](/neuroprint-validation/stage1/subject1.html)
+[Subject 2](/neuroprint-validation/stage1/subject2.html)
