@@ -14,5 +14,6 @@ Neuroprint is a pipeline/Flywheel gear for calculating statistical deviation in 
 
 For a given patient, the gear takes the same regional cortical thickness values and the patient’s age and sex and calculates a w-score (essentially a weighted z-score) using the following formula. Note that the score is multiplied by -1 so that higher w-scores reflect greater degeneration.
 
-w-score =-raw ct val - intercept - age\*agecoefficient - sex\*sexcoefficient standard error residuals
+_w-score =-(raw ct val - intercept - age\*agecoefficient - sex\*sexcoefficient) / standard error residuals_
+
 The result is a score for each region describing the difference in that region’s observed cortical thickness compared to that of a healthy control. The gear renders these scores in a 3D model.
