@@ -26,4 +26,4 @@ The study is divided into four stages:
 --
 
 
-## Open Stage 1 here: [Stage 1](/stage1)
+## Open Stage 1 here: [Stage 1]({{ '/stage1/' | relative_url }})
