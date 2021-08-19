@@ -26,4 +26,4 @@ The study is divided into four stages:
 --
 
 
-## Open Stage 1 here: [Stage 1](/neuroprint/stage1/)
+## Open Stage 1 here: [Stage 1](/neuroprint-validation/stage1/)
