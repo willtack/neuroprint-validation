@@ -26,4 +26,9 @@ The study is divided into four stages:
 --
 
 
-## Open Stage 1 here: [Stage 1](/neuroprint-validation/stage1/)
+## Open Stage 1 here: [Stage 1](/stage1/)
+
+[Stage w]({{ '/stage1/' | relative_url }})
+[Stage x](/stage1)
+[Stage y](/neuroprint-validation/stage1/)
+[Stage z](/neuroprint-validation/stage1.md)
