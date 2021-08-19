@@ -36,7 +36,9 @@ header_pages:
   - about.md
   - stage1.md
   - stage2.md
-  # - stage2.md
+  - stage3.md
+  - stage4.md
+
 minima:
   skin: dark
 
