@@ -10,4 +10,13 @@ This website is the home for all the data and surveys needed for reviewers.
 
 ## code
 
-The code/ directory contains code needed to organize the data for this study. This includes creating a dedicated [Flywheel project](link) with the appropriate data, running the Neuroprint gear, and randomizing the order and labels of images for the various stages of this study.
+The code/ directory contains code needed to organize the data for this study. 
+
+This includes 
+
+- creating a dedicated [Flywheel project](link) with the appropriate data
+- running the Neuroprint gear
+- downloading heatmap images
+- automatically populating stage2.md with image links
+- randomizing the order and labels of images for the various stages of this study
+
