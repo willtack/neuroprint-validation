@@ -5,5 +5,5 @@
 layout: home
 ---
 
-[Subject 1](/neuroprint-validation/stage1/subject1.html)
-[Subject 2](/neuroprint-validation/stage1/subject2.html)
+[Subject 1](/stage1/subject1.html)
+[Subject 2](/stage1/subject2.html)
