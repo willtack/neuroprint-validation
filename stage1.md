@@ -5,7 +5,11 @@ title: Stage 1
 permalink: /stage1/
 ---
 
-- [Subject 1](/stages/stage1/test.html)
-- [Subject 2](/stages/stage1/test2.html)
-- [Subject 3](/stages/stage1/test3.html)
-- [Subject 4](/stages/stage1/test.html)
+**Instructions**
+
+You will look at subjects’ T1 images on Flywheel and record your diagnostic choices in the [corresponding survey](https://forms.gle/zgjRw9Q9NjX14agn7).
+
+**Subjects**
+- [Subject 1](/stages/stage1/subject.html)
+- [Subject 2](/stages/stage1/subject2.html)
+- [Subject 3](/stages/stage1/subject3.html)

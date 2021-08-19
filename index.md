@@ -23,7 +23,7 @@ The study is divided into four stages:
 3. Raters view Neuroprint heatmaps and make diagnosis
 4. Raters view Neuroprint heatmaps alongside clinical context for that case and make diagnosis
 
+--
 
 
-
-[Stage 1](/stage1/)
+## Open Stage 1 here: [Stage 1](/stage1/)
