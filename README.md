@@ -1,6 +1,6 @@
 # neuroprint-validation
 
-The purpose of the study is to validate the efficacy of Neuroprint, a software pipeline which calculates and graphically renders deviations in regional cortical thickness from values observed in healthy control subjects. Specifically, the aim is to demonstrate that Neuroprint-rendered images (aka heatmaps) improve diagnostic accuracy of different types of neurodegenerative disease, including Alzheimer’s Disease (AD) and fronto-temporal dementia (FTD), and their subtypes compared to the corresponding unprocessed T1w MRI image in a clinical setting. A secondary objective is to show Neuroprint renderings improve reader classification of disease cases versus healthy controls.
+The purpose of the study is to validate the efficacy of Neuroprint, [a software pipeline](https://github.com/willtack/wscore-ct-heatmap) which calculates and graphically renders deviations in regional cortical thickness from values observed in healthy control subjects. Specifically, the aim is to demonstrate that Neuroprint-rendered images (aka heatmaps) improve diagnostic accuracy of different types of neurodegenerative disease, including Alzheimer’s Disease (AD) and fronto-temporal dementia (FTD), and their subtypes compared to the corresponding unprocessed T1w MRI image in a clinical setting. A secondary objective is to show Neuroprint renderings improve reader classification of disease cases versus healthy controls.
 
 ## website
 
