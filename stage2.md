@@ -12,5 +12,7 @@ Simply scroll through this web page to get a feel for the heatmaps. Each map thr
 
 **Subjects**
 ![Subject 1](/stages/stage2/subject1.png)
+
 ![Subject 2](/stages/stage2/subject2.png)
+
 ![Subject 3](/stages/stage2/subject3.png)
