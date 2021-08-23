@@ -8,7 +8,7 @@ layout: home
 <!-- <img src="/stages/stage2/subject1.png" width="250" align="right" margin-left="100px"  /> -->
 
 <div align="center" style="margin-bottom:25px">
-<img width="400" src="/stages/stage2/subject1.png"/>
+<img width="400" src="{{ '/stages/stage2/subject1.png' | relative_url }}"/>
 </div>
 
 **Design and Instructions**
