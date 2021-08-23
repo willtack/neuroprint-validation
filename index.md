@@ -4,6 +4,13 @@
 
 layout: home
 ---
+
+<!-- <img src="/stages/stage2/subject1.png" width="250" align="right" margin-left="100px"  /> -->
+
+<div align="center" style="margin-bottom:25px">
+<img width="400" src="/stages/stage2/subject1.png"/>
+</div>
+
 **Design and Instructions**
 
 In the study, you will view images and make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=) as well as clinically diagnosed AD (n=) and FTD (n=) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
