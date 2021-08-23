@@ -17,6 +17,7 @@ This includes
 - creating a dedicated [Flywheel project](https://upenn.flywheel.io/#/projects/60fef55e60ec55d1b0e0741e) with the appropriate data
 - running the Neuroprint gear
 - downloading heatmap images
+- scripting the creation of html pages from T1w niftis
 - automatically populating stage2.md with image links
 - randomizing the order and labels of images for the various stages of this study
 
