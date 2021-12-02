@@ -8,12 +8,12 @@ layout: home
 <!-- <img src="/stages/stage2/subject1.png" width="250" align="right" margin-left="100px"  /> -->
 
 <div align="center" style="margin-bottom:25px">
-<img width="400" src="{{ '/stages/stage2/subject1.png' | relative_url }}"/>
+<img width="400" src="{{ '/stages/stage2/subject3.png' | relative_url }}"/>
 </div>
 
 **Design and Instructions**
 
-In the study, you will view images and make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=) as well as clinically diagnosed AD (n=) and FTD (n=) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
+In the study, you will view images and make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=20) as well as clinically diagnosed AD (n=20) and FTD (n=20) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
 
 - Level 1: Normal vs Abnormal
 - Level 2: If Abnormal, AD Spectrum vs. FTD Spectrum vs. Other Neurodegenerative
