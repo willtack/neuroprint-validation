@@ -13,7 +13,13 @@ layout: home
 
 **Design and Instructions**
 
-In the study, you will view images, both raw T1w structural scans and rendered heatmaps of abnormal cortical thickness levels (Please see *[About]({{ '/about/' | relative_url }})>What is Neuroprint* for more details about the heatmaps). Based on those images, you will make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=20) as well as clinically diagnosed AD (n=20) and FTD (n=20) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
+In the study, you will view images, both raw T1w structural scans and rendered heatmaps of age- and sex-adjusted cortical thickness levels.
+
+These heatmaps are a visualization of a patient's regional w-scores, a statistical score which denotes the number of standard deviations the patient’s cortical thickness is below the expected value for a patient of that age and sex. The pipeline calculates a w-score for each of 200 cortical regions (Schaefer 2018 atlas) by plugging the patient’s mean cortical thickness in the given region, the patient’s age, and patient’s sex into a model derived from >800 healthy subjects across the age range.
+
+The pipeline then renders these scores as different shades of color scale in a 3D projection of the cortical surface. The scores are thresholded at 1.5 for the rendering, so that only “clinically significant” differences are displayed. This threshold also means that areas of cortical thickening are not displayed (as they’d be negative). This is because we are focused on degeneration, and only displaying areas of cortical thinning makes the heatmaps easier to interpret. Note that higher w-scores reflect greater degeneration.
+
+Based on either the native T1w images or the heatmaps, you will make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=20) as well as clinically diagnosed AD (n=20) and FTD (n=20) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
 
 - Level 1: Normal vs Abnormal
 - Level 2: If Abnormal, AD Spectrum vs. FTD Spectrum vs. Other Neurodegenerative
