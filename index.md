@@ -13,7 +13,7 @@ layout: home
 
 **Design and Instructions**
 
-In the study, you will view images, both raw T1w structural scans and rendered heatmaps of abnormal cortical thickness levels (Please see [About]({{ '/about/' | relative_url }})>What is Neuroprint for more details about the heatmaps). Based on those images, you will make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=20) as well as clinically diagnosed AD (n=20) and FTD (n=20) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
+In the study, you will view images, both raw T1w structural scans and rendered heatmaps of abnormal cortical thickness levels (Please see *[About]({{ '/about/' | relative_url }})>What is Neuroprint* for more details about the heatmaps). Based on those images, you will make forced choice diagnostic decisions in 60 patients comprising healthy controls (n=20) as well as clinically diagnosed AD (n=20) and FTD (n=20) patients. You will first decide if the presented case is normal or abnormal and, if abnormal, choose among overarching disease categories (AD, FTDC, other), then among several potential subtypes depending on the choice of disease category, like so:
 
 - Level 1: Normal vs Abnormal
 - Level 2: If Abnormal, AD Spectrum vs. FTD Spectrum vs. Other Neurodegenerative
